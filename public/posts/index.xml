@@ -1,25 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Home on Portfolio</title>
-    <link>http://localhost:1313/portfolio/</link>
-    <description>Recent content in Home on Portfolio</description>
+    <title>Posts on Portfolio</title>
+    <link>http://localhost:1313/portfolio/posts/</link>
+    <description>Recent content in Posts on Portfolio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <managingEditor>you@example.com (Daniel Kroner Nielsen)</managingEditor>
     <webMaster>you@example.com (Daniel Kroner Nielsen)</webMaster>
     <copyright>© 2026 Daniel Kroner Nielsen</copyright>
-    <lastBuildDate>Wed, 22 Apr 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/portfolio/index.xml" rel="self" type="application/rss+xml" />
-    
-    <item>
-      <title>About</title>
-      <link>http://localhost:1313/portfolio/about/</link>
-      <pubDate>Wed, 22 Apr 2026 00:00:00 +0000</pubDate>
-      <author>you@example.com (Daniel Kroner Nielsen)</author>
-      <guid>http://localhost:1313/portfolio/about/</guid>
-      <description></description>
-      
-    </item>
+    <lastBuildDate>Wed, 22 Apr 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/portfolio/posts/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Post 1</title>
